@@ -11,7 +11,7 @@
 }
 
 #title-page {
-    background-image: url('/Users/seancooper/Documents/web-development/projects/Liz/resources/liz-bg-squat.png');
+    background-image: url('resources/liz-bg-squat.png');
     background-size: contain;
     background-repeat: no-repeat;
     animation: fadeIn ease 3s;
